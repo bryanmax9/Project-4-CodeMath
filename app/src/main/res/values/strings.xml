@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CodeMath</string>
+    <string name="percentage">%1$d%%</string>
+</resources>
